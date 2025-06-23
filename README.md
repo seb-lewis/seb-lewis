@@ -19,7 +19,7 @@
 
 -   **Frontend:** TypeScript, SvelteKit, TailwindCSS
 -   **Backend:** Node.js, Python, PostgreSQL, Redis
--   **Infra & Services:** Cloudflare (Workers, Pages), AWS, Vercel, Docker
+-   **Infra & Services:** Cloudflare (Workers, Pages, Queues, Workflows, Durable Objects, KV), Docker
 -   **Money:** Stripe, Polar
 
 📈 **The Receipts (Proof of Work)**
