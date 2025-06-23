@@ -2,9 +2,9 @@
 
 ### I'm a builder, founder, and full-stack engineer.
 
-> I take ideas from concept to scalable, revenue-focused products. My happy
+> I take ideas from concept to scalable, feedback-driven products. My happy
 > place is at the intersection of deep technical execution and product
-> strategy. I ship fast and iterate faster.
+> strategy. I ship fast and obsess over creating experiences that customers love.
 
 ---
 
