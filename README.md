@@ -10,10 +10,10 @@
 
 🚀 **What I'm Focused On Right Now**
 
--   Scaling my own SaaS product to 100+ customers, organically. Already the market leader in a high value niche.
+-   Scaling my own SaaS product. Already the market leader in a high value niche.
 -   Building high-leverage data automation, web scraping solutions, and SaaS platforms for
     clients.
--   Going deep on SvelteKit and Cloudflare's serverless ecosystem.
+-   AI agents and agent teams.
 
 💻 **My Toolkit (The Shortlist)**
 
